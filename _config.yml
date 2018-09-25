@@ -2,16 +2,16 @@ url: https://minkakao.github.io/projects
 baseurl: /projects/
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Minka's fun projects
+email: minkakim95@gmail.com
+description: "Media artist, Kim Minkyeung's artworks and projects. "
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Kim Minkyeung
   pic: 1
-  position: Lead Designer
+  position: Media Artist<br>
   social:
     - title: twitter
       url: #
@@ -50,7 +50,7 @@ social:
     url:
   - title: stack-overflow
     url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
+  - title: bitbucket
     url: http://bitbucket.org/jekyll
   - title: github
     url: http://github.com/jekyll
