@@ -809,6 +809,9 @@ ul.social-buttons li a:active {
 .portfolio-modal .modal-content img {
     margin-bottom: 30px;
 }
+.portfolio-modal .modal-content img2 {
+    margin-bottom: 30px;
+}
 
 .portfolio-modal .close-modal {
     position: absolute;
