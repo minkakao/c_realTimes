@@ -1,0 +1,24 @@
+---
+title: Olympic
+subtitle: Interactive Art
+layout: default
+modal-id: 6
+date: 2018-03-05
+img: olympic.jpg
+thumbnail: olympic.jpg
+alt: image-alt
+project-date: March 2018
+exhibited at: Yangpyeong Art Museum
+category: Interactive Media Art
+description:
+
+---
+
+You will need :  Keen eye to search for the meaning of the images.
+
+The Purpose of the work: Is Olympic really for a peace ? How much does a country spend budget to hold an olympic?
+
+The procedure:
+1. get close to the artwork
+2.. move your body and erase the surface
+3. You will find the other picture tells about behind-scene of olympic   
