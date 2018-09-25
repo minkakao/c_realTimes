@@ -267,7 +267,7 @@ fieldset[disabled] .btn-xl.active {
 
 header {
     text-align: right;
-    color: #fff;
+    color: #FFFF00;
     background-attachment: scroll;
     background-image: url('{{ site.baseurl }}/img/c.realTimes.jpg');
     background-position: center center;
