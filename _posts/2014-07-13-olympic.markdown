@@ -7,13 +7,25 @@ date: 2018-03-05
 img: olympic.jpg
 thumbnail: olympic.jpg
 alt: image-alt
+<<<<<<< HEAD
 project-date: April 2018
 client: 
 category: Interactive media art
+=======
+>>>>>>> 9bbfa3dc8f3c8337bd630792db11988f71d8b322
 description: You will need :  Keen eye to search for the meaning of the images.<br>The Purpose of the work: Is Olympic really for a peace ? How much does a country spend budget to hold an olympic?<br>The procedure:<br>
 1. get close to the artwork<br>
 2.. move your body and erase the surface<br>
 3. You will find the other picture tells about behind-scene of olympic. <br>   <br>
+<<<<<<< HEAD
 exhibitied at | Yangpyeong Art Museum
 ---
 what if I write at here??
+=======
+category | Interactive media art
+exhibitied at | Yangpyeong Art Museum
+
+
+
+---
+>>>>>>> 9bbfa3dc8f3c8337bd630792db11988f71d8b322
