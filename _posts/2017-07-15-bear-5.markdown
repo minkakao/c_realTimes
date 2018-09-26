@@ -1,0 +1,15 @@
+---
+title: Should I be at toy shop, or at art gallary ?
+subtitle: Interactive Artwork
+layout: default
+modal-id: 5
+date: 2017-07-15
+img: bear.jpg
+thumbnail: bear.jpg
+alt: image-alt
+project-date: August 2017
+client:
+category: Interactive Art
+description: bearbaerabera
+
+---

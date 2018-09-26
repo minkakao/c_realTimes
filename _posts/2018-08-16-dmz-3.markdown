@@ -1,0 +1,15 @@
+---
+title: DMZ, 117kb
+subtitle: Interactive Media Art
+layout: default
+modal-id: 3
+date: 2018-08-16
+img: dmz3.jpg
+thumbnail: dmz3.jpg
+alt: image-alt
+project-date: August 2018
+client: DMZ Campsgreaves, Korea
+category:  Interactive Media Art
+description: 117kb
+
+---

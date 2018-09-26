@@ -1,14 +1,14 @@
 ---
 title: Olympic
-subtitle: Interactive Art
+subtitle: Interacive Media Art
 layout: default
 modal-id: 6
-date: 2018-03-05
+date: 2018-04-13
 img: olympic.jpg
 thumbnail: olympic.jpg
 alt: image-alt
 project-date: April 2018
-client: 
+client: Yangpyeong Art Museum
 category: Interactive media art
 description: You will need
 ---
