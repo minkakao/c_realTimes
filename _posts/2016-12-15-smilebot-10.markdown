@@ -1,0 +1,15 @@
+---
+title: Smile-bot
+subtitle: Wearable bot
+layout: default
+modal-id: 10
+date: 2016-12-15
+img: smilebot0.jpg
+thumbnail: smilebot0.jpg
+alt: image-alt
+project-date: December 2016
+client:
+category: Wearable bot
+description: A hat that makes you smile
+
+---

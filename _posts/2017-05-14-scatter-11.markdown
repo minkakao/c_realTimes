@@ -1,0 +1,15 @@
+---
+title: Scatter
+subtitle: Kinetic Art
+layout: default
+modal-id: 11
+date: 2017-05-14
+img: magnet6.png
+thumbnail: magnet3.jpg
+alt: image-alt
+project-date: May 2017
+client:
+category: Kinetic Art
+description: Erase the line !
+
+---

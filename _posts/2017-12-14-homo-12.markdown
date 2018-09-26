@@ -1,0 +1,15 @@
+---
+title: Homo-Electronous
+subtitle: Installation
+layout: default
+modal-id: 12
+date: 2017-12-14
+img: homo3.jpg
+thumbnail: homo5.png
+alt: image-alt
+project-date: December 2017
+client: Korea University Museum
+category: Installation, Kinetic Art
+description: Can human live without electricity?
+
+---

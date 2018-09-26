@@ -1,0 +1,15 @@
+---
+title: Media-Cookcast
+subtitle: Single Channel Video
+layout: default
+modal-id: 13
+date: 2016-12-14
+img: cook5.jpg
+thumbnail: cook5.jpg
+alt: image-alt
+project-date: December 2016
+client:
+category: Single Channel Video
+description: Cookcast
+
+---
