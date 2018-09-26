@@ -5,7 +5,7 @@ layout: default
 modal-id: 14
 date: 2017-06-20
 img: painting.jpg
-thumbnail: painting.jpg
+thumbnail: dmz2.jpg
 alt: image-alt
 project-date: September 2018
 client: KOCCA(Korea Creative Content Agency)
