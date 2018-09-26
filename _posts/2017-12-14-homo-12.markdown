@@ -5,7 +5,7 @@ layout: default
 modal-id: 12
 date: 2017-12-14
 img: homo3.jpg
-thumbnail: homo5.PNG
+thumbnail: homo6.PNG
 alt: image-alt
 project-date: December 2017
 client: Korea University Museum
