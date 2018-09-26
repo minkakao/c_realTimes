@@ -3,7 +3,6 @@ title: Little Prince's Serial Box
 subtitle: Interactive Play Content
 layout: default
 modal-id: 14
-date:
 img: painting.jpg
 thumbnail: painting.jpg
 alt: image-alt
