@@ -10,6 +10,6 @@ alt: image-alt
 project-date: August 2018
 client: DMZ Campsgreaves, Korea
 category:  Interactive Media Art
-description: 117kb
+description: <h2>117kb</h2><br>  <br> <h4><li>The procedure =</h4><b> Viewers come into the artworks play the game, finding mines. If the viewer steps on the mine, images pops up which implicate the separation of South and North Korea. </b></li><br> <br><p><iframe width="720" height="480" src="https://www.youtube.com/embed/uR2GR7LTV10?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p> <br>--------------------------------------------------------------------------------<br><b>Making Process</b><br>Programming imges to pop up if touches bomb. <br> --------------------------------------------------------------------------------<br>  <br>  <iframe src="https://player.vimeo.com/video/292310274" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <br> ------------------------------------------------------------------------------------------------<br><b>Installation video</b> <br>------------------------------------------------------------------------------------------------<p><iframe src="https://player.vimeo.com/video/292309939" width="720" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <iframe src="https://player.vimeo.com/video/292310671" width="720" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p> 
 
 ---
