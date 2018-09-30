@@ -4,12 +4,11 @@ subtitle: Kinetic Art
 layout: default
 modal-id: 11
 date: 2017-05-14
-img: magnet6.png
+img: magnet6.PNG
 thumbnail: magnet3.jpg
 alt: image-alt
-project-date: May 2017
+project-date: June 2017
 client:
 category: Kinetic Art
-description: Erase the line ! <iframe width="560" height="315" src="https://www.youtube.com/embed/Y50iQe5c_WQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
+description: <iframe width="560" height="315" src="https://www.youtube.com/embed/Y50iQe5c_WQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 ---
