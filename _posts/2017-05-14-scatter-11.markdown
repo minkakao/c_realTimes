@@ -10,6 +10,6 @@ alt: image-alt
 project-date: May 2017
 client:
 category: Kinetic Art
-description: Erase the line !
+description: Erase the line ! <iframe width="560" height="315" src="https://www.youtube.com/embed/Y50iQe5c_WQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ---
