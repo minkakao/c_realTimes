@@ -10,6 +10,6 @@ alt: image-alt
 project-date: December 2017
 client: Korea University Museum
 category: Installation, Kinetic Art
-description: Can human live without electricity? <iframe width="900" height="650" src="https://www.youtube.com/embed/wQ8f-PlsKbo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> <p> <img src="img/portfolio/homo4.PNG" class="img-responsive img-centered" alt="">  <img src="img/portfolio/homo5.PNG" class="img-responsive img-centered" alt=""> </p>
+description: Can human live without electricity? <iframe width="900" height="650" src="https://www.youtube.com/embed/wQ8f-PlsKbo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  <img src="img/portfolio/homo4.PNG" class="img-responsive img-centered" alt="">  <img src="img/portfolio/homo5.PNG" class="img-responsive img-centered" alt=""> 
 
 ---
