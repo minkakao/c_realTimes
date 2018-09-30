@@ -10,6 +10,6 @@ alt: image-alt
 project-date: August 2017
 client:
 category: Interactive Art
-description:  <img src="img/portfolio/bear2.jpg" class="img-responsive img-centered" alt="Interview">Interview Pressure<br> <img src="img/portfolio/bear3.jpg" class="img-responsive img-centered" alt="Interview">Interview Pressure<br> <img src="img/portfolio/bear4.jpg" class="img-responsive img-centered" alt="Interview">Interview Pressure<br> Should I be at toy shop, or at art gallary ? <br> 2017 <br>  Arduino and other materials <br> 
+description:  <img src="img/portfolio/bear2.jpg" class="img-responsive img-centered" alt="oo"><br> <img src="img/portfolio/bear3.jpg" class="img-responsive img-centered" alt="oo"><br> <img src="img/portfolio/bear4.jpg" class="img-responsive img-centered" alt="oo"><br> Should I be at toy shop, or at art gallary ? <br> 2017 <br>  Arduino and other materials <br>
 
 ---
