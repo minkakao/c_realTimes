@@ -4,7 +4,7 @@ subtitle: Interacive Media Art
 layout: default
 modal-id: 2
 date: 2018-05-17
-img: escape.png
+img: hideAndSeek.JPG
 thumbnail: hideAndSeek.JPG
 alt: image-alt
 project-date: May 2018
