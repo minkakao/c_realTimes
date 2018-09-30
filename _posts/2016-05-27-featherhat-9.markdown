@@ -5,7 +5,7 @@ layout: default
 modal-id: 9
 date: 2016-05-27
 img: feather1.jpg
-thumbnail: feather6.jpg
+thumbnail: feather9.PNG
 alt: image-alt
 project-date: May 2016
 client: Copenhagen University
