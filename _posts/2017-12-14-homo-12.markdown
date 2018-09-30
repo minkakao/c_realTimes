@@ -5,11 +5,11 @@ layout: default
 modal-id: 12
 date: 2017-12-14
 img: homo3.jpg
-thumbnail: dmz2.jpg
+thumbnail: homo6.PNG
 alt: image-alt
 project-date: December 2017
 client: Korea University Museum
 category: Installation, Kinetic Art
-description: Can human live without electricity?
+description: Can human live without electricity? <iframe width="900" height="650" src="https://www.youtube.com/embed/wQ8f-PlsKbo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ---

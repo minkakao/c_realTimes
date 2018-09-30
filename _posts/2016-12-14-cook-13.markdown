@@ -10,6 +10,6 @@ alt: image-alt
 project-date: December 2016
 client:
 category: Single Channel Video
-description: <h4>Media Cookcast</h4> <iframe width="720" height="480" src="https://www.youtube.com/embed/DMlFCHM6e6E" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> <br> <img src="img/portfolio/cook2.png" class="img-responsive img-centered" alt="Interview">Interview Pressure<br>  <img src="img/portfolio/cook3.png" class="img-responsive img-centered" alt="Interview">Interview Pressure<br> <img src="img/portfolio/cook4.png" class="img-responsive img-centered" alt="Interview">Interview Pressure<br>  <img src="img/portfolio/cook5.png" class="img-responsive img-centered" alt="Interview">Interview Pressure<br> 
+description: <h4>Media Cookcast</h4> <iframe width="720" height="480" src="https://www.youtube.com/embed/DMlFCHM6e6E" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> <br> <img src="img/portfolio/cook2.png" class="img-responsive img-centered" alt="Interview">Interview Pressure<br>  <img src="img/portfolio/cook3.png" class="img-responsive img-centered" alt="Interview">Interview Pressure<br> <img src="img/portfolio/cook4.png" class="img-responsive img-centered" alt="Interview">Interview Pressure<br>  <img src="img/portfolio/cook5.png" class="img-responsive img-centered" alt="Interview">Interview Pressure<br>
 
 ---

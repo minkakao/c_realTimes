@@ -10,6 +10,6 @@ alt: image-alt
 project-date: December 2016
 client:
 category: Wearable bot
-description: A hat that makes you smile
+description: A hat that makes you smile  <p> <img src="img/portfolio/smilebot3.jpg" class="img-responsive img-centered" alt=""> </p> <p> <img src="img/portfolio/smilebot11.jpg" class="img-responsive img-centered" alt=""> </p>
 
 ---
