@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2018
 client: Yangpyeong Art Museum
 category: Interactive media art
-description: <iframe width="900" height="650" src="https://www.youtube.com/embed/EqXDPpH7i-o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  <iframe width="900" height="650" src="https://www.youtube.com/embed/ofaP4GcXCLI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+description: <iframe width="900" height="650" src="https://www.youtube.com/embed/EqXDPpH7i-o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen> </iframe> <iframe width="900" height="650" src="https://www.youtube.com/embed/ofaP4GcXCLI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 ---
 what if I write at here??
