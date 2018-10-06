@@ -7,5 +7,5 @@ color:
 
 # Font Families
 font:
-  primary: 'NanumGothic','Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif'
-  secondary: "NanumGothic", '"Droid Serif", "Helvetica Neue", Helvetica,Arial,sans-serif'
+  primary: 'NanumGothic'
+  secondary: "NanumGothic"
