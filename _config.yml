@@ -2,9 +2,9 @@ url: https://minkakao.github.io/projects
 baseurl: /projects/
 
 # Site settings
-title: Minka's Fun Projects
+title: Minka's Projects
 email: minkakim95@gmail.com
-description: "Media artist, Kim Minkyeung's artworks and projects. "
+description: "Kim Minkyeung's artworks and projects. "
 
 # Team names, titles and social links
 people:
@@ -19,45 +19,25 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url:
   - title: facebook
     url:
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+    url:
   - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url:
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/minkakao/projects
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 145-5, Daeheung-ro, Mapo-gu, Seoul
+  - line: Republic of Korea
 
 # Build settings
 markdown: kramdown
