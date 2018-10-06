@@ -1,6 +1,6 @@
 ---
 title: Should I be at toy shop, or at art gallary ?
-subtitle: Interactive Artwork
+subtitle: Hardware
 layout: default
 modal-id: 5
 date: 2017-07-15
