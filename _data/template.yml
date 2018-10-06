@@ -7,5 +7,5 @@ color:
 
 # Font Families
 font:
-  primary: 'NanumGothic', 'NanumMyeongjo'
-  secondary: "NanumGothic", 'NanumMyeongjo'
+  primary: 'NanumGothic','NanumMyeongjo'
+  secondary: "NanumGothic","NanumMyeongjo"
