@@ -773,7 +773,7 @@ ul.social-buttons li a:active {
     outline: 0;
 }
 
-@media(min-width:768px) {
+@media(max-width:768px) {
 .portfolio-modal .modal-content {
     padding: 80px 80px;
     min-height: 100%;
@@ -849,6 +849,7 @@ ul.social-buttons li a:active {
     transform: rotate(90deg);
 }
 }
+
 
 ::-moz-selection {
     text-shadow: none;
