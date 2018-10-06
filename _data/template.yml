@@ -8,4 +8,4 @@ color:
 # Font Families
 font:
   primary: 'NanumGothic', 'NanumMyeongjo'
-  secondary: "NanumGothic", "NanumMyeongjo"
+  secondary: "NanumGothic", 'NanumMyeongjo'
