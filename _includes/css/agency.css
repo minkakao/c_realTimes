@@ -234,7 +234,7 @@ fieldset[disabled] .btn-xl.active {
     background-color: #{{ site.data.template.color.secondary }};
 }
 
-@media(min-width:768px) {
+@media(max-width:768px) {
     .navbar-default {
         padding: 25px 0;
         border: 0;
