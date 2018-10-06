@@ -6,7 +6,7 @@
 
 body {
     overflow-x: hidden;
-    font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family:  'NanumGothic' ;
     color: #{{ site.data.template.color.secondary-dark }};
 }
 
@@ -267,7 +267,7 @@ fieldset[disabled] .btn-xl.active {
 
 header {
     text-align: right;
-    color: #FFFF00;
+    color: #cbdfec;
     background-attachment: scroll;
     background-image: url('{{ site.baseurl }}/img/c.realTimes_2.jpg');
     background-position: center center;
