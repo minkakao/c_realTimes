@@ -234,7 +234,7 @@ fieldset[disabled] .btn-xl.active {
     background-color: #{{ site.data.template.color.secondary }};
 }
 
-@media(min-width:768px) {
+@media(max-width:768px) {
     .navbar-default {
         padding: 25px 0;
         border: 0;
@@ -263,7 +263,7 @@ fieldset[disabled] .btn-xl.active {
     .navbar-default.navbar-shrink .navbar-brand {
         font-size: 1.5em;
     }
-}
+
 
 header {
     text-align: right;
@@ -773,6 +773,7 @@ ul.social-buttons li a:active {
     outline: 0;
 }
 
+@media(min-width:768px) {
 .portfolio-modal .modal-content {
     padding: 80px 80px;
     min-height: 100%;
@@ -847,6 +848,8 @@ ul.social-buttons li a:active {
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
 }
+}
+
 
 
 ::-moz-selection {
@@ -869,4 +872,5 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
+}
 }
