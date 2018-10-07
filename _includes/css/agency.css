@@ -642,11 +642,13 @@ section h3.section-subheading {
 #cv.cv{
   display: block;
   margin: 0 auto;
+  text-align: center;
   float: center;
   width: 300px;
   height: 400px;
 }
 #cv.media-coverage {
+  text-align: left;
   display: block;
   margin: 0 auto;
   float: left;
