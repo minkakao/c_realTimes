@@ -1,5 +1,10 @@
  <!-- Portfolio Modals -->
  {% for post in site.posts %}
+ <script type="text/javascript">
+  $(window).resize(function(){resizeYoutube();});
+  $(function(){resizeYoutube();});
+  function resizeYoutube(){ $("iframe").each(function(){ if( /^https?:\/\/www.youtube.com\/embed\//g.test($(this).attr("src")) ){ $(this).css("width","100%"); $(this).css("height",Math.ceil( parseInt($(this).css("width")) * 480 / 854 ) + "px");} }); }
+</script>
     <div class="portfolio-modal modal fade" id="portfolioModal{{ post.modal-id }}" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
             <div class="close-modal" data-dismiss="modal">
