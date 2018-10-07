@@ -608,7 +608,7 @@ section h3.section-subheading {
     }
 }
 
-@media(max-width:1200px) {
+@media(min-width:1200px) {
     .timeline>li {
         min-height: 170px;
     }
@@ -800,7 +800,7 @@ ul.social-buttons li a:active {
     margin: 20px 0 30px;
     font-family: {{ site.data.template.font.secondary }};
     font-size: 16px;
-    font-style: italic;
+    font-style: none;
 }
 
 .portfolio-modal .modal-content ul.list-inline {
