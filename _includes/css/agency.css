@@ -774,7 +774,7 @@ ul.social-buttons li a:active {
 }
 
 
-
+@media(min-width: 900px) {
 .portfolio-modal .modal-content {
     padding: 80px 80px;
     min-height: 100%;
@@ -785,23 +785,39 @@ ul.social-buttons li a:active {
     background-clip: border-box;
     -webkit-box-shadow: none;
     box-shadow: none;
+  }
 }
 
+@media(max-width: 899px) {
+  .portfolio-modal .modal-content {
+      padding: 10px 10px;
+      min-height: 100%;
+      margin: 10px 10px 10px 10px;
+      border: 5px;
+      border-radius: 5px;
+      text-align: center;
+      background-clip: border-box;
+      -webkit-box-shadow: none;
+      box-shadow: none;
+  }
+}
+
+@media(min-width: 900px) {
 .portfolio-modal .modal-content h2 {
     margin-bottom: 15px;
     font-size: 3em;
-}
+  }
 
 .portfolio-modal .modal-content p {
     margin-bottom: 30px;
-}
+  }
 
 .portfolio-modal .modal-content p.item-intro {
     margin: 20px 0 30px;
     font-family: {{ site.data.template.font.secondary }};
     font-size: 16px;
     font-style: none;
-}
+  }
 
 .portfolio-modal .modal-content ul.list-inline {
     margin-top: 0;
@@ -810,10 +826,10 @@ ul.social-buttons li a:active {
 
 .portfolio-modal .modal-content img {
     margin-bottom: 30px;
-}
+  }
 .portfolio-modal .modal-content img2 {
     margin-bottom: 30px;
-}
+  }
 
 .portfolio-modal .close-modal {
     position: absolute;
@@ -850,7 +866,7 @@ ul.social-buttons li a:active {
     transform: rotate(90deg);
 }
 
-
+}
 
 
 ::-moz-selection {
