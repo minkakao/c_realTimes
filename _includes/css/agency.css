@@ -632,18 +632,18 @@ section h3.section-subheading {
     }
 }
 
-#picture {
+.picture {
   float: left;
   width: 300px;
   height: 400px;
 }
 
-#cv{
+.cv{
   float: center;
   width: 300px;
   height: 400px;
 }
-#Media Coverage {
+.media-coverage {
   float: left;
   width: 300px;
   height: 400px;
