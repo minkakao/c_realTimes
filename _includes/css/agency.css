@@ -632,6 +632,23 @@ section h3.section-subheading {
     }
 }
 
+#picture {
+  float: left;
+  width: 300px;
+  height: 400px;
+}
+
+#cv{
+  float: center;
+  width: 300px;
+  height: 400px;
+}
+#Media Coverage {
+  float: left;
+  width: 300px;
+  height: 400px;
+}
+/*
 .team-member {
     margin-bottom: 50px;
     text-align: center;
@@ -651,6 +668,7 @@ section h3.section-subheading {
 .team-member p {
     margin-top: 0;
 }
+*/
 
 aside.clients img {
     margin: 50px auto;
