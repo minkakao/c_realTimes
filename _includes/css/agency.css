@@ -644,16 +644,13 @@ section h3.section-subheading {
   margin: 0 auto;
   text-align: left;
   float: left;
-  width: 300px;
-  height: 400px;
 }
 #cv.media-coverage {
   text-align: left;
   display: block;
   margin: 0 auto;
   float: left;
-  width: 300px;
-  height: 400px;
+
 }
 /*
 .team-member {
