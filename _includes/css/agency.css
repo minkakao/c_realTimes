@@ -356,9 +356,9 @@ section h3.section-subheading {
 .button_I {
   display: inline-block;
   border-radius: 4px;
-  background-color: #b1d8ff;
-  border: none;
-  color: #FFFFFF;
+  background-color: white;
+  border: 2px solid #b1d8ff;
+  color: black;
   text-align: center;
   font-size: 14px;
   padding: 10px 10px;
