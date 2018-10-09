@@ -2,7 +2,7 @@
 title: Value of Valueless
 subtitle: Curation
 layout: default
-modal-id: 15
+modal-id: 16
 date: 2017-05-19
 img: painting.jpg
 thumbnail: painting.jpg
