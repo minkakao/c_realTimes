@@ -361,8 +361,8 @@ section h3.section-subheading {
   color: #FFFFFF;
   text-align: center;
   font-size: 12px;
-  padding: 10px 24px;
-  width: 400px;
+  padding: 10px 10px;
+  width: 250px;
   transition: all 0.4s;
   cursor: pointer;
   margin: 5px;
