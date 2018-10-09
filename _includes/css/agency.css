@@ -353,6 +353,45 @@ section h3.section-subheading {
     margin: 15px 0;
     text-transform: none;
 }
+.button_I {
+  display: inline-block;
+  border-radius: 4px;
+  background-color: #b1d8ff;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 12px;
+  padding: 10px 24px;
+  width: 100px;
+  transition: all 0.4s;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.button_I span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button_I span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.button_I:hover span {
+  padding-right: 25px;
+}
+
+.button_I:hover span:after {
+  opacity: 1;
+  right: 0;
+}
 
 #portfolio .portfolio-item {
     right: 0;
