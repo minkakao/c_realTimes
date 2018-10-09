@@ -357,7 +357,7 @@ section h3.section-subheading {
   display: inline-block;
   border-radius: 4px;
   background-color: white;
-  border: 2px solid #b8b8ff;
+  border: 2px solid #b1d8ff;
   color: black;
   text-align: center;
   font-size: 14px;
@@ -386,6 +386,8 @@ section h3.section-subheading {
 
 .button_I:hover span {
   padding-right: 25px;
+  background-color: #b1d8ff;
+  color: white;
 }
 
 .button_I:hover span:after {
