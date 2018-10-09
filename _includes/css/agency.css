@@ -19,12 +19,16 @@ body {
 }
 
 p {
-    font-size: 14px;
+    font-size: 16px;
+    text-align: justify;
+    text-align-last: left;
     line-height: 1.75;
 }
 
 p.large {
     font-size: 16px;
+    text-align: justify;
+    text-align-last: left;
 }
 
 a,
@@ -460,7 +464,7 @@ section h3.section-subheading {
     margin: 0;
     font-family: {{ site.data.template.font.secondary }};
     font-size: 16px;
-    font-style: italic;
+
 }
 
 #portfolio * {
