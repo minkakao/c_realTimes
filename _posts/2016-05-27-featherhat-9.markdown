@@ -10,5 +10,5 @@ alt: image-alt
 project-date: May 2016
 client: Copenhagen University
 category: Wearable Robot
-description: Animated Funeral Hat <div class="embed-responsive embed-responsive-16by9"> <iframe  src="https://www.youtube.com/embed/V83Chrk1Ps4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen  class="embed-responsive-item"></iframe> <br> <br ><embed src="img/Wearable.pdf" type="application/pdf" class="embed-responsive-item" >  </embed> </div>
+description: Animated Funeral Hat <div class="embed-responsive embed-responsive-16by9"> <iframe  src="https://www.youtube.com/embed/V83Chrk1Ps4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen  class="embed-responsive-item"></iframe> </div> <br> <br >  <div class="embed-responsive embed-responsive-16by9"> <embed src="img/Wearable.pdf" type="application/pdf" class="embed-responsive-item" >  </embed>  </div>
 ---
