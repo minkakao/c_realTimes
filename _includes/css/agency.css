@@ -273,7 +273,7 @@ header {
     text-align: right;
     color: #ffffff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/c.realTimes_2.jpg');
+    background-image: url('{{ site.baseurl }}/img/c.realTimes_3.jpg');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: 100% 100%;
