@@ -1,6 +1,6 @@
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: cfb095 #하늘
+  primary: 95d0d0
   secondary: b8b8ff #보라
   secondary-dark: 333
   muted: 777
