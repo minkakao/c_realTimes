@@ -276,10 +276,10 @@ header {
     background-image: url('{{ site.baseurl }}/img/feather4.jpg');
     background-position: center center;
     background-repeat: none;
-    -webkit-background-size: 100% 100%;
-    -moz-background-size: 100% 100%;
-    background-size: 100% 100%;
-    -o-background-size: 100% 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
 }
 
 header .intro-text {
