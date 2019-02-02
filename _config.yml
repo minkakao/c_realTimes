@@ -1,10 +1,10 @@
-url: https://minkakao.github.io/projects
-baseurl: /projects/
+url: https://minkakao.github.io/c_realTimes/
+baseurl: /c_realTimes/
 
 # Site settings
-title: Kim Minkyeung, c.realTimes
-email: minkakim95@gmail.com
-description: "Kim Minkyeung's artworks and projects. "
+title: 시리얼타임즈 c.realTimes
+email: minkaka5@gmail.com
+description: "c.realTimes' artworks and projects. "
 
 # Team names, titles and social links
 people:

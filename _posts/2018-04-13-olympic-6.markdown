@@ -1,5 +1,5 @@
 ---
-title: Olympic
+title: Untitled
 subtitle: Interacive Media Art
 layout: default
 modal-id: 6
