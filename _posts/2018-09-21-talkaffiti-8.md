@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Talk-affiti
-subtitle: Sound Interactive Project, Installed at Seongnam Art Center
+subtitle: Sound Interactive Project, Seongnam Art Center
 img: talk3.jpg
 thumbnail: talk3.jpg
 date: 2018-05-27
