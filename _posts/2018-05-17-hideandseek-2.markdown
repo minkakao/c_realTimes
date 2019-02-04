@@ -1,6 +1,6 @@
 ---
 title: Hide and Seek
-subtitle: Installed at Tribowl, Songdo
+subtitle: Tribowl, Songdo
 layout: default
 modal-id: 2
 date: 2018-05-17
