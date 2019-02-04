@@ -1,6 +1,6 @@
 ---
 title: Untitled
-subtitle: Interacive Media Art
+subtitle: Installed at Yangpyeong Art Museum 
 layout: default
 modal-id: 6
 date: 2018-07-20

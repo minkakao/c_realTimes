@@ -1,6 +1,6 @@
 ---
 title: Wearewatching_us_gnihctaweraeW
-subtitle: Interacive Media Art
+subtitle: Installed at Jeju Art Space IAa, Jeju
 layout: default
 modal-id: 4
 date: 2018-06-15

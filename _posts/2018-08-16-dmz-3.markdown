@@ -1,6 +1,6 @@
 ---
 title: DMZ, 117kb
-subtitle: Interactive Media Art
+subtitle: Installed at DMZ Camp Greaves, Paju
 layout: default
 modal-id: 3
 date: 2018-08-16

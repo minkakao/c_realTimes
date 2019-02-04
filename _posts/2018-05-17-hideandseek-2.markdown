@@ -1,6 +1,6 @@
 ---
 title: Hide and Seek
-subtitle: Interacive Media Art
+subtitle: Installed at Tribowl, Songdo
 layout: default
 modal-id: 2
 date: 2018-05-17
